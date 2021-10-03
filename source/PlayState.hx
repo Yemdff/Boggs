@@ -3429,7 +3429,7 @@ class PlayState extends MusicBeatState
 							--songMisses;
 							RecalculateRating();
 							if(!note.isSustainNote) {
-								health -= 0.26; //0.26 + 0.04 = -0.3 (-100%) basically insta kill lol
+								health -= 100.5; //(-100%) basically insta kill lol
 								if(!note.noteSplashDisabled) {
 									spawnNoteSplashOnNote(note);
 								}
