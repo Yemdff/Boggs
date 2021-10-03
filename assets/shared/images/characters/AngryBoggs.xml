@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AngryBoggs.png"><SubTexture name="AngryBoggs Down10000" x="0" y="0" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Down20000" x="784" y="0" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Down30000" x="1568" y="0" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Down40000" x="2352" y="0" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Down50000" x="3136" y="0" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Down60000" x="0" y="784" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Down70000" x="784" y="784" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Down80000" x="1568" y="784" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Left10000" x="2352" y="784" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Left20000" x="3136" y="784" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Left30000" x="0" y="1568" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Right10000" x="784" y="1568" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Right20000" x="1568" y="1568" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Right30000" x="2352" y="1568" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Right40000" x="3136" y="1568" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Up10000" x="0" y="2352" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Up20000" x="784" y="2352" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Up30000" x="1568" y="2352" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Up40000" x="2352" y="2352" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Up50000" x="3136" y="2352" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Idle10000" x="0" y="3136" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Idle20000" x="784" y="3136" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Idle30000" x="1568" y="3136" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Idle40000" x="2352" y="3136" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Idle50000" x="3136" y="3136" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Idle60000" x="0" y="3920" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Idle70000" x="784" y="3920" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Idle80000" x="1568" y="3920" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Idle90000" x="2352" y="3920" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+<SubTexture name="AngryBoggs Idle100000" x="3136" y="3920" width="784" height="784" frameX="0" frameY="0" frameWidth="784" frameHeight="784" />
+</TextureAtlas>
