@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				463,
+				585
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				468,
+				591
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "AngryBoggs Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				468,
+				591
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "AngryBoggs Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				470,
+				601
+			],
+			"anim": "idle-loop",
+			"fps": 14,
+			"name": "AngryBoggs Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				601
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "AngryBoggs Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				600
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "AngryBoggs Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				470,
+				600
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "AngryBoggs Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				460,
+				600
+			],
+			"anim": "singLEFT-loop",
+			"fps": 10,
+			"name": "AngryBoggs Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				470,
+				588
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 15,
+			"name": "AngryBoggs Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				474,
+				590
+			],
+			"anim": "singUP-loop",
+			"fps": 15,
+			"name": "AngryBoggs Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AngryBoggs",
+	"position": [
+		-60,
+		80
+	],
+	"healthicon": "angryboggs",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		55
+	],
+	"camera_position": [
+		-940,
+		-1170
+	],
+	"sing_duration": 6.1,
+	"scale": 2.5
+}
