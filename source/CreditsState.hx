@@ -43,9 +43,9 @@ class CreditsState extends MusicBeatState
 		['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",					'https://twitter.com/kawaisprite',		0xFF6475F3],
 		[''],
 		['VS. Boggs Development'],
-		['Shark',			'sharf',		"he owns booghost",					'https://www.youtube.com/channel/UCM111exsSywUGUJ_a4LQIUw',		0xaff7ee],
-		['Yem',			'yem',		"he does alot",					'https://www.youtube.com/channel/UClWkGQwmA1IqbpVLS8cTQ1g',		0xaff7ee],
-		['Pyro',			'pyro',		"did some little stuff",					'https://www.youtube.com/channel/UC5JOVyEJesLEgyFvU9_MN1w',		0xaff7ee]
+		['Shark',			'sharf',		"he owns booghost",					'https://www.youtube.com/channel/UCM111exsSywUGUJ_a4LQIUw',		0xFF53E52C],
+		['Yem',			'yem',		"he does alot",					'https://www.youtube.com/channel/UClWkGQwmA1IqbpVLS8cTQ1g',		0xFF53E52C],
+		['Pyro',			'pyro',		"did alot of the github stuff",					'https://www.youtube.com/channel/UC5JOVyEJesLEgyFvU9_MN1w',		0xFF53E52C]
 	];
 
 	var bg:FlxSprite;
